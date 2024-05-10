@@ -2,12 +2,13 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 7th, 2024, the backlog consists of 40 emojis, going back to January 3rd, 2024.
+As of May 9th, 2024, the backlog consists of 41 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`2695 FE0F`|![](emoji/2695fe0f.png)|Medical Symbol|[🔗](https://u.cubeupload.com/Octostomp/medicalsymbolfmji.png)|co0lcr34t10ns|2024-05-09
 |`1F96E`|![](emoji/1f96e.png)|Moon Cake|[🔗](https://u.cubeupload.com/Octostomp/bettermooncake.png)|co0lcr34t10ns|2024-05-07
 |`1F6C3`|![](emoji/1f6c3.png)|Customs|[🔗](https://u.cubeupload.com/popularknight/customs.png)|floppasyay|2024-05-07
 |`1F341`|![](emoji/1f341.png)|Maple Leaf|[🔗](https://u.cubeupload.com/popularknight/mapleLeaf.png)|floppasyay|2024-05-07
