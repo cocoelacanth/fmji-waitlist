@@ -76,3 +76,14 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1FA78`|![](emoji/15x15/1fa78.png)|Drop of Blood|[🔗](https://u.cubeupload.com/HECK3R_/redblood.png)|-ElectronicArts-|2024-01-03
 |`303D FE0F`|![](emoji/15x15/303d-fe0f.png)|Part Alternation Mark|[🔗](https://u.cubeupload.com/HECK3R_/mark.png)|-ElectronicArts-|2024-01-03
 |`1F3B4`|![](emoji/15x15/1f3b4.png)|Flower Playing Cards|[🔗](https://u.cubeupload.com/HECK3R_/cards.png)|-ElectronicArts-|2024-01-03
+
+## Adding to Forumoji
+The files in this repository are structured and formatted in a very similar fashion to those in the main Forumoji repository. This is deliberate.
+
+The intent is to allow the new emojis to be "dropped in" to the main repository with little effort. The bulk of the work has been done already; the emoji assets in `emoji/15x15` follow the same naming format as those in the main repository, and an `emoji.json` file containing the new emojis is present.
+
+In short, there are (theoretically) only three steps to adding new emojis to Forumoji from here:
+
+1. Copy the contents of the `emoji/15x15` folder to Forumoji's `assets/emoji/15x15` folder.
+2. Append the contents of `emoji.json` to Forumoji's `assets/emoji.json`.
+3. Upload the emoji assets from `emoji/15x15` to Cubeupload.
