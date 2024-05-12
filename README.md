@@ -2,12 +2,24 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 9th, 2024, the backlog consists of 41 emojis, going back to January 3rd, 2024.
+As of May 11th, 2024, the backlog consists of 53 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`2699`|![](emoji/2699fe0f.png)|Gear|[🔗](https://u.cubeupload.com/popularknight/pixilframe05.png)|floppasyay|2024-05-11|
+|`1FAAF`|![](emoji/1faaf.png)|Khanda|[🔗](https://u.cubeupload.com/popularknight/pixilframe06.png)|floppasyay|2024-05-11|
+|`1F6E3`|![](emoji/1f6e3fe0f.png)|Motorway|[🔗](https://u.cubeupload.com/popularknight/pixilframe07.png)|floppasyay|2024-05-11|
+|`26CF`|![](emoji/26cffe0f.png)|Pick|[🔗](https://u.cubeupload.com/popularknight/pixilframe015.png)|floppasyay|2024-05-11|
+|`1F9D1 200D 1F680`|![](emoji/1f9d1200d1f680.png)|Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe09.png)|floppasyay|2024-05-11|
+|`1F468 200D 1F680`|![](emoji/1f468200d1f680.png)|Man Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe013.png)|floppasyay|2024-05-11|
+|`1F469 200D 1F680`|![](emoji/1f469200d1f680.png)|Woman Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe012.png)|floppasyay|2024-05-11|
+|`1F54A`|![](emoji/1f54afe0f.png)|Dove|[🔗](https://u.cubeupload.com/popularknight/pixilframe014.png)|floppasyay|2024-05-11|
+|`269B`|![](emoji/269bfe0f.png)|Atom|[🔗](https://u.cubeupload.com/popularknight/pixilframe016.png)|floppasyay|2024-05-11|
+|`1F3BE`|![](emoji/1f3be.png)|Tennis|[🔗](https://u.cubeupload.com/popularknight/pixilframe017.png)|floppasyay|2024-05-11|
+|`1F397`|![](emoji/1f397fe0f.png)|Reminder Ribbon|[🔗](https://u.cubeupload.com/popularknight/pixilframe018.png)|floppasyay|2024-05-11|
+|`1F97D`|![](emoji/1F97D.png)|Goggles|[🔗](https://u.cubeupload.com/popularknight/pixilframe019.png)|floppasyay|2024-05-11|
 |`2695 FE0F`|![](emoji/2695fe0f.png)|Medical Symbol|[🔗](https://u.cubeupload.com/Octostomp/medicalsymbolfmji.png)|co0lcr34t10ns|2024-05-09
 |`1F96E`|![](emoji/1f96e.png)|Moon Cake|[🔗](https://u.cubeupload.com/Octostomp/bettermooncake.png)|co0lcr34t10ns|2024-05-07
 |`1F6C3`|![](emoji/1f6c3.png)|Customs|[🔗](https://u.cubeupload.com/popularknight/customs.png)|floppasyay|2024-05-07
