@@ -2,12 +2,27 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 11th, 2024, the backlog consists of 53 emojis, going back to January 3rd, 2024.
+As of May 12th, 2024, the backlog consists of 68 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`1F9D1 200D 1F9B2`|![](emoji/1f9d1200d1f9b2.png)|Person: Bald|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b2.png)|Scratch137|2024-05-12|
+|`1F9D4`|![](emoji/1f9d4.png)|Person: Beard|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d4.png)|Scratch137|2024-05-12|
+|`1F9D1 200D 1F9B0`|![](emoji/1f9d1200d1f9b0.png)|Person: Red Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b0.png)|Scratch137|2024-05-12|
+|`1F471`|![](emoji/1f471.png)|Person: Blond Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f471.png)|Scratch137|2024-05-12|
+|`1F9D1 200D 1F9B3`|![](emoji/1f9d1200d1f9b3.png)|Person: White Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b3.png)|Scratch137|2024-05-12|
+|`1F469 200D 1F9B2`|![](emoji/1f469200d1f9b2.png)|Woman: Bald|[🔗](https://u.cubeupload.com/CocoTheMii/1f469200d1f9b2.png)|Scratch137|2024-05-12|
+|`1F9D4 200D 2640 FE0F`|![](emoji/1f9d4200d2640fe0f.png)|Woman: Beard|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d4200d2640fe0f.png)|Scratch137|2024-05-12|
+|`1F469 200D 1F9B0`|![](emoji/1f469200d1f9b0.png)|Woman: Red Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f469200d1f9b0.png)|Scratch137|2024-05-12|
+|`1F471 200D 2640 FE0F`|![](emoji/1f471200d2640fe0f.png)|Woman: Blond Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f471200d2640fe0f.png)|Scratch137|2024-05-12|
+|`1F469 200D 1F9B3`|![](emoji/1f469200d1f9b3.png)|Woman: White Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f469200d1f9b3.png)|Scratch137|2024-05-12|
+|`1F468 200D 1F9B2`|![](emoji/1f468200d1f9b2.png)|Man: Bald|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f9b2.png)|Scratch137|2024-05-12|
+|`1F9D4 200D 2642 FE0F`|![](emoji/1f9d4200d2642fe0f.png)|Man: Beard|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d4200d2642fe0f.png)|Scratch137|2024-05-12|
+|`1F468 200D 1F9B0`|![](emoji/1f468200d1f9b0.png)|Man: Red Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f9b0.png)|Scratch137|2024-05-12|
+|`1F471 200D 2642 FE0F`|![](emoji/1f471200d2642fe0f.png)|Man: Blond Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f471200d2642fe0f.png)|Scratch137|2024-05-12|
+|`1F468 200D 1F9B3`|![](emoji/1f468200d1f9b3.png)|Man: White Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f9b3.png)|Scratch137|2024-05-12|
 |`2699 FE0F`|![](emoji/2699fe0f.png)|Gear|[🔗](https://u.cubeupload.com/popularknight/pixilframe05.png)|floppasyay|2024-05-11|
 |`1FAAF`|![](emoji/1faaf.png)|Khanda|[🔗](https://u.cubeupload.com/popularknight/pixilframe06.png)|floppasyay|2024-05-11|
 |`1F6E3 FE0F`|![](emoji/1f6e3fe0f.png)|Motorway|[🔗](https://u.cubeupload.com/popularknight/pixilframe07.png)|floppasyay|2024-05-11|
