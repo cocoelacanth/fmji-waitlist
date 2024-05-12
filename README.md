@@ -23,27 +23,27 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F468 200D 1F9B0`|![](emoji/15x15/1f468-200d-1f9b0.png)|Man: Red Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f9b0.png)|Scratch137|2024-05-12|
 |`1F471 200D 2642 FE0F`|![](emoji/15x15/1f471-200d-2642-fe0f.png)|Man: Blond Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f471200d2642fe0f.png)|Scratch137|2024-05-12|
 |`1F468 200D 1F9B3`|![](emoji/15x15/1f468-200d-1f9b3.png)|Man: White Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f9b3.png)|Scratch137|2024-05-12|
-|`2699 FE0F`|![](emoji/15x15/2699-fe0f.png)|Gear|[🔗](https://u.cubeupload.com/popularknight/pixilframe05.png)|floppasyay|2024-05-11|
+|`2699`|![](emoji/15x15/2699.png)|Gear|[🔗](https://u.cubeupload.com/popularknight/pixilframe05.png)|floppasyay|2024-05-11|
 |`1FAAF`|![](emoji/15x15/1faaf.png)|Khanda|[🔗](https://u.cubeupload.com/popularknight/pixilframe06.png)|floppasyay|2024-05-11|
-|`1F6E3 FE0F`|![](emoji/15x15/1f6e3-fe0f.png)|Motorway|[🔗](https://u.cubeupload.com/popularknight/pixilframe07.png)|floppasyay|2024-05-11|
-|`26CF FE0F`|![](emoji/15x15/26cf-fe0f.png)|Pick|[🔗](https://u.cubeupload.com/popularknight/pixilframe015.png)|floppasyay|2024-05-11|
+|`1F6E3`|![](emoji/15x15/1f6e3.png)|Motorway|[🔗](https://u.cubeupload.com/popularknight/pixilframe07.png)|floppasyay|2024-05-11|
+|`26CF`|![](emoji/15x15/26cf.png)|Pick|[🔗](https://u.cubeupload.com/popularknight/pixilframe015.png)|floppasyay|2024-05-11|
 |`1F9D1 200D 1F680`|![](emoji/15x15/1f9d1-200d-1f680.png)|Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe09.png)|floppasyay|2024-05-11|
 |`1F468 200D 1F680`|![](emoji/15x15/1f468-200d-1f680.png)|Man Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe013.png)|floppasyay|2024-05-11|
 |`1F469 200D 1F680`|![](emoji/15x15/1f469-200d-1f680.png)|Woman Astronaut|[🔗](https://u.cubeupload.com/popularknight/pixilframe012.png)|floppasyay|2024-05-11|
-|`1F54A FE0F`|![](emoji/15x15/1f54a-fe0f.png)|Dove|[🔗](https://u.cubeupload.com/popularknight/pixilframe014.png)|floppasyay|2024-05-11|
-|`269B FE0F`|![](emoji/15x15/269b-fe0f.png)|Atom|[🔗](https://u.cubeupload.com/popularknight/pixilframe016.png)|floppasyay|2024-05-11|
+|`1F54A`|![](emoji/15x15/1f54a.png)|Dove|[🔗](https://u.cubeupload.com/popularknight/pixilframe014.png)|floppasyay|2024-05-11|
+|`269B`|![](emoji/15x15/269b.png)|Atom Symbol|[🔗](https://u.cubeupload.com/popularknight/pixilframe016.png)|floppasyay|2024-05-11|
 |`1F3BE`|![](emoji/15x15/1f3be.png)|Tennis|[🔗](https://u.cubeupload.com/popularknight/pixilframe017.png)|floppasyay|2024-05-11|
-|`1F397 FE0F`|![](emoji/15x15/1f397-fe0f.png)|Reminder Ribbon|[🔗](https://u.cubeupload.com/popularknight/pixilframe018.png)|floppasyay|2024-05-11|
+|`1F397`|![](emoji/15x15/1f397.png)|Reminder Ribbon|[🔗](https://u.cubeupload.com/popularknight/pixilframe018.png)|floppasyay|2024-05-11|
 |`1F97D`|![](emoji/15x15/1f97d.png)|Goggles|[🔗](https://u.cubeupload.com/popularknight/pixilframe019.png)|floppasyay|2024-05-11|
-|`2695 FE0F`|![](emoji/15x15/2695-fe0f.png)|Medical Symbol|[🔗](https://u.cubeupload.com/Octostomp/medicalsymbolfmji.png)|co0lcr34t10ns|2024-05-09
+|`2695`|![](emoji/15x15/2695.png)|Medical Symbol|[🔗](https://u.cubeupload.com/Octostomp/medicalsymbolfmji.png)|co0lcr34t10ns|2024-05-09
 |`1F96E`|![](emoji/15x15/1f96e.png)|Moon Cake|[🔗](https://u.cubeupload.com/Octostomp/bettermooncake.png)|co0lcr34t10ns|2024-05-07
 |`1F6C3`|![](emoji/15x15/1f6c3.png)|Customs|[🔗](https://u.cubeupload.com/popularknight/customs.png)|floppasyay|2024-05-07
 |`1F341`|![](emoji/15x15/1f341.png)|Maple Leaf|[🔗](https://u.cubeupload.com/popularknight/mapleLeaf.png)|floppasyay|2024-05-07
 |`1F985`|![](emoji/15x15/1f985.png)|Eagle|[🔗](https://u.cubeupload.com/popularknight/eagle.png)|floppasyay|2024-05-07
-|`1F575 FE0F`|![](emoji/15x15/1f575-fe0f.png)|Detective|[🔗](https://u.cubeupload.com/popularknight/detective.png)|floppasyay|2024-05-07
+|`1F575`|![](emoji/15x15/1f575.png)|Detective|[🔗](https://u.cubeupload.com/popularknight/detective.png)|floppasyay|2024-05-07
 |`1F9FC`|![](emoji/15x15/1f9fc.png)|Soap|[🔗](https://u.cubeupload.com/greg1234567890f/soap.png)|greg1234567890f|2024-03-07
 |`1F956`|![](emoji/15x15/1f956.png)|Baguette Bread|[🔗](https://u.cubeupload.com/numbersaccepted/costume5.png)|quadruple_door|2024-03-05
-|`1F32B FE0F`|![](emoji/15x15/1f32b-fe0f.png)|Fog|[🔗](https://u.cubeupload.com/numbersaccepted/costume6.png)|quadruple_door|2024-03-05
+|`1F32B`|![](emoji/15x15/1f32b.png)|Fog|[🔗](https://u.cubeupload.com/numbersaccepted/costume6.png)|quadruple_door|2024-03-05
 |`1F6BD`|![](emoji/15x15/1f6bd.png)|Toilet|[🔗](https://u.cubeupload.com/numbersaccepted/costume7.png)|quadruple_door|2024-03-05
 |`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife|[🔗](https://u.cubeupload.com/numbersaccepted/costume1.png)|quadruple_door|2024-03-05
 |`1F95B`|![](emoji/15x15/1f95b.png)|Glass of Milk|[🔗](https://u.cubeupload.com/numbersaccepted/costume2.png)|quadruple_door|2024-03-05
@@ -71,10 +71,10 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F52A`|![](emoji/15x15/1f52a.png)|Kitchen Knife|[🔗](https://u.cubeupload.com/hydrofungus/834IMG4609.png)|hydrofungus|2024-02-16
 |`1F36B`|![](emoji/15x15/1f36b.png)|Chocolate Bar|[🔗](https://u.cubeupload.com/hydrofungus/IMG4613.png)|hydrofungus|2024-02-16
 |`1F3A9`|![](emoji/15x15/1f3a9.png)|Top Hat|[🔗](https://u.cubeupload.com/hydrofungus/IMG4615.png)|hydrofungus|2024-02-16
-|`2733 FE0F`|![](emoji/15x15/2733-fe0f.png)|Eight-Spoked Asterisk|[🔗](https://u.cubeupload.com/greg1234567890f/2733.png)|greg1234567890f|2024-01-04
-|`262E FE0F`|![](emoji/15x15/262e-fe0f.png)|Peace Symbol|[🔗](https://u.cubeupload.com/greg1234567890f/262e.png)|greg1234567890f|2024-01-04
+|`2733`|![](emoji/15x15/2733.png)|Eight-Spoked Asterisk|[🔗](https://u.cubeupload.com/greg1234567890f/2733.png)|greg1234567890f|2024-01-04
+|`262E`|![](emoji/15x15/262e.png)|Peace Symbol|[🔗](https://u.cubeupload.com/greg1234567890f/262e.png)|greg1234567890f|2024-01-04
 |`1FA78`|![](emoji/15x15/1fa78.png)|Drop of Blood|[🔗](https://u.cubeupload.com/HECK3R_/redblood.png)|-ElectronicArts-|2024-01-03
-|`303D FE0F`|![](emoji/15x15/303d-fe0f.png)|Part Alternation Mark|[🔗](https://u.cubeupload.com/HECK3R_/mark.png)|-ElectronicArts-|2024-01-03
+|`303D`|![](emoji/15x15/303d.png)|Part Alternation Mark|[🔗](https://u.cubeupload.com/HECK3R_/mark.png)|-ElectronicArts-|2024-01-03
 |`1F3B4`|![](emoji/15x15/1f3b4.png)|Flower Playing Cards|[🔗](https://u.cubeupload.com/HECK3R_/cards.png)|-ElectronicArts-|2024-01-03
 
 ## Adding to Forumoji
