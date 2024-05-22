@@ -2,12 +2,14 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 12th, 2024, the backlog consists of 68 emojis, going back to January 3rd, 2024.
+As of May 21st, 2024, the backlog consists of 71 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`2747`|![](emoji/15x15/2747.png)|Sparkle|[🔗](https://u.cubeupload.com/CocoTheMii/2747.png)|Scratch137|2024-05-21|
+|`1F966`|![](emoji/15x15/1f966.png)|Broccoli|[🔗](https://u.cubeupload.com/CocoTheMii/1f966.png)|gem1001|2024-05-21|
 |`1F9D1 200D 1F9B2`|![](emoji/15x15/1f9d1-200d-1f9b2.png)|Person: Bald|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b2.png)|Scratch137|2024-05-12|
 |`1F9D4`|![](emoji/15x15/1f9d4.png)|Person: Beard|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d4.png)|Scratch137|2024-05-12|
 |`1F9D1 200D 1F9B0`|![](emoji/15x15/1f9d1-200d-1f9b0.png)|Person: Red Hair|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b0.png)|Scratch137|2024-05-12|
