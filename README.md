@@ -2,12 +2,16 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 21st, 2024, the backlog consists of 71 emojis, going back to January 3rd, 2024.
+As of May 23rd, 2024, the backlog consists of 75 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`1F698`|![](emoji/15x15/1f698.png)|Oncoming Automobile|[🔗](https://u.cubeupload.com/popularknight/4apixilframe020.png)|floppasyay|2024-05-23|
+|`1F32A`|![](emoji/15x15/1f32a.png)|Tornado|[🔗](https://u.cubeupload.com/jmdzti_/descarga81.png)|gem1001|2024-05-23|
+|`1F9E0`|![](emoji/15x15/1f9e0.png)|Brain|[🔗](https://u.cubeupload.com/notwait/brain.png)|notwait|2024-05-23|
+|`1F366`|![](emoji/15x15/1f366.png)|Soft Ice Cream|[🔗](https://u.cubeupload.com/jmdzti_/350download.png)|gem1001|2024-05-22|
 |`2747`|![](emoji/15x15/2747.png)|Sparkle|[🔗](https://u.cubeupload.com/CocoTheMii/2747.png)|Scratch137|2024-05-21|
 |`1F966`|![](emoji/15x15/1f966.png)|Broccoli|[🔗](https://u.cubeupload.com/CocoTheMii/1f966.png)|gem1001|2024-05-21|
 |`1F9D1 200D 1F9B2`|![](emoji/15x15/1f9d1-200d-1f9b2.png)|Person: Bald|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f9b2.png)|Scratch137|2024-05-12|
