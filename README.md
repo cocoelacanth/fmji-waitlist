@@ -73,7 +73,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F368`|![](emoji/15x15/1f368.png)|Ice Cream|[🔗](https://u.cubeupload.com/hydrofungus/IMG4628.png)|hydrofungus|2024-02-16
 |`1F32D`|![](emoji/15x15/1f32d.png)|Hot Dog|[🔗](https://u.cubeupload.com/hydrofungus/IMG4630.png)|hydrofungus|2024-02-16
 |`1F380`|![](emoji/15x15/1f380.png)|Ribbon|[🔗](https://u.cubeupload.com/hydrofungus/IMG4605.png)|hydrofungus|2024-02-16
-|`1F35E`|![](emoji/15x15/1f35e.png)|Bread|[🔗](https://u.cubeupload.com/hydrofungus/IMG4607.png)|hydrofungus|2024-02-16
+|`1F35E`|![](emoji/15x15/1f35e.png)|Bread *|[🔗](https://u.cubeupload.com/hydrofungus/IMG4607.png)|hydrofungus|2024-02-16
 |`1F52A`|![](emoji/15x15/1f52a.png)|Kitchen Knife|[🔗](https://u.cubeupload.com/hydrofungus/834IMG4609.png)|hydrofungus|2024-02-16
 |`1F36B`|![](emoji/15x15/1f36b.png)|Chocolate Bar|[🔗](https://u.cubeupload.com/hydrofungus/IMG4613.png)|hydrofungus|2024-02-16
 |`1F3A9`|![](emoji/15x15/1f3a9.png)|Top Hat|[🔗](https://u.cubeupload.com/hydrofungus/IMG4615.png)|hydrofungus|2024-02-16
@@ -83,13 +83,18 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`303D`|![](emoji/15x15/303d.png)|Part Alternation Mark|[🔗](https://u.cubeupload.com/HECK3R_/mark.png)|-ElectronicArts-|2024-01-03
 |`1F3B4`|![](emoji/15x15/1f3b4.png)|Flower Playing Cards|[🔗](https://u.cubeupload.com/HECK3R_/cards.png)|-ElectronicArts-|2024-01-03
 
+<sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; its entry will need to be updated manually.</sup>
+
 ## Adding to Forumoji
 The files in this repository are structured and formatted in a very similar fashion to those in the main Forumoji repository. This is deliberate.
 
 The intent is to allow the new emojis to be "dropped in" to the main repository with little effort. The bulk of the work has been done already; the emoji assets in `emoji/15x15` follow the same naming format as those in the main repository, and an `emoji.json` file containing the new emojis is present.
 
-In short, there are (theoretically) only three steps to adding new emojis to Forumoji from here:
+Some emojis in the waitlist are updated designs for emojis already present in the main repository. These emojis (marked with an asterisk * ) already have entries in the main `emoji.json` file, and are thus excluded here. If the new design was submitted by a different person than the original, its existing entry will need to be updated manually.
+
+In short, there are (theoretically) four steps to adding new emojis to Forumoji from here:
 
 1. Copy the contents of the `emoji/15x15` folder to Forumoji's `assets/emoji/15x15` folder.
 2. Append the contents of `emoji.json` to Forumoji's `assets/emoji.json`.
-3. Upload the emoji assets from `emoji/15x15` to Cubeupload.
+3. Update the authors on existing emojis in `emoji.json` as needed.
+4. Upload the emoji assets from `emoji/15x15` to Cubeupload.
