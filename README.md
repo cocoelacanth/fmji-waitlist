@@ -2,12 +2,15 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of May 23rd, 2024, the backlog consists of 75 emojis, going back to January 3rd, 2024.
+As of May 30th, 2024, the backlog consists of 78 emojis, going back to January 3rd, 2024.
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor|Date Contributed|
 |:-------:|:---:|:---|:-:|:----------|:---------------|
+|`1F442`|![](emoji/15x15/1f442.png)|Ear|[🔗](https://u.cubeupload.com/Famus/pixilframe0.png)|VeryFamus|2024-05-30|
+|`1F44A`|![](emoji/15x15/1f44a.png)|Oncoming Fist|[🔗](https://u.cubeupload.com/Famus/pixilartdrawing.png)|VeryFamus|2024-05-30|
+|`1F636 200D 1F32B FE0F`|![](emoji/15x15/1f636-200d-1f32b-fe0f.png)|Face in Clouds *|[🔗](https://u.cubeupload.com/jmdzti_/faceinclouds.png)|jmdzti_0-0|2024-05-25|
 |`1F698`|![](emoji/15x15/1f698.png)|Oncoming Automobile|[🔗](https://u.cubeupload.com/popularknight/4apixilframe020.png)|floppasyay|2024-05-23|
 |`1F32A`|![](emoji/15x15/1f32a.png)|Tornado|[🔗](https://u.cubeupload.com/jmdzti_/descarga81.png)|gem1001|2024-05-23|
 |`1F9E0`|![](emoji/15x15/1f9e0.png)|Brain|[🔗](https://u.cubeupload.com/notwait/brain.png)|notwait|2024-05-23|
