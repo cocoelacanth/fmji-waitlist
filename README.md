@@ -20,8 +20,8 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F339`|![](emoji/15x15/1f339.png)|Rose|[🔗](https://u.cubeupload.com/jmdzti_/1f339.png)|jmdzti_0-0|2024-06-15|
 |`1F940`|![](emoji/15x15/1f940.png)|Wilted Flower|[🔗](https://u.cubeupload.com/jmdzti_/1f940.png)|jmdzti_0-0|2024-06-15|
 |`1F33A`|![](emoji/15x15/1f33a.png)|Hibiscus|[🔗](https://u.cubeupload.com/jmdzti_/1f33a.png)|jmdzti_0-0|2024-06-15|
-|`1F33B`|![](emoji/15x15/1f33b.png)|Sunflower|[🔗](https://u.cubeupload.com/jmdzti_/1f33b.png)|jmdzti_0-0|2024-06-15|
-|`1F340`|![](emoji/15x15/1f340.png)|Four-Leaf Clover|[🔗](https://u.cubeupload.com/jmdzti_/1f340.png)|jmdzti_0-0|2024-06-15|
+|`1F33B`|![](emoji/15x15/1f33b.png)|Sunflower *|[🔗](https://u.cubeupload.com/jmdzti_/1f33b.png)|jmdzti_0-0|2024-06-15|
+|`1F340`|![](emoji/15x15/1f340.png)|Four-Leaf Clover *|[🔗](https://u.cubeupload.com/jmdzti_/1f340.png)|jmdzti_0-0|2024-06-15|
 |`1F41B`|![](emoji/15x15/1f41b.png)|Bug|[🔗](https://u.cubeupload.com/popularknight/pixilframe021.png)|floppasyay|2024-06-15|
 |`1F986`|![](emoji/15x15/1f986.png)|Duck|[🔗](https://u.cubeupload.com/jmdzti_/1f986.png)|jmdzti_0-0|2024-06-15|
 |`1F426`|![](emoji/15x15/1f426.png)|Bird *|[🔗](https://u.cubeupload.com/jmdzti_/1f426.png)|jmdzti_0-0|2024-06-15|
