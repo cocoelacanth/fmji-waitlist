@@ -116,15 +116,14 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 <sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; its entry will need to be updated manually.</sup>
 
 ## Adding to Forumoji
-The files in this repository are structured and formatted in a very similar fashion to those in the main Forumoji repository. This is deliberate.
+Within this repository are some files that have been provided to simplify the process of adding the new emojis to the main repository.
 
-The intent is to allow the new emojis to be "dropped in" to the main repository with little effort. The bulk of the work has been done already; the emoji assets in `emoji/15x15` follow the same naming format as those in the main repository, and an `emoji.json` file containing the new emojis is present.
+Below is a list of important assets, as well as an explanation of how to implement each.
 
-Some emojis in the waitlist are updated designs for emojis already present in the main repository. These emojis (marked with an asterisk * ) already have entries in the main `emoji.json` file, and are thus excluded here. If the new design was submitted by a different person than the original, its existing entry will need to be updated manually.
+* `emoji.json` is a JSON object containing codepoints and authors for every emoji on this list, excluding updated designs for emojis that have been contributed before.
+  * Append the contents of this file to `assets/emoji.json` on the [`main`](https://github.com/vercte/forumoji) branch
+  * Append the contents of this file to `assets/emoji.js` on the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch
+* `emoji/15x15` contains every emoji on this list in PNG format, ready to be dropped in to the main repository as-is.
+  * Copy everything in this folder to `assets/emoji/15x15` into `assets/emoji/15x15` on the [`main`](https://github.com/vercte/forumoji) and [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branches
 
-In short, there are (theoretically) four steps to adding new emojis to Forumoji from here:
-
-1. Copy the contents of the `emoji/15x15` folder to Forumoji's `assets/emoji/15x15` folder.
-2. Append the contents of `emoji.json` to Forumoji's `assets/emoji.json`.
-3. Update the authors on existing emojis in `emoji.json` as needed.
-4. Upload the emoji assets from `emoji/15x15` to Cubeupload.
+Beyond just copying these files over, also take note of any emojis marked with an asterisk * in the waitlist above. These are updates to existing emojis, and adding these may involve updating the listed authors in `assets/emoji.json`.
