@@ -122,7 +122,7 @@ Below is a list of important assets, as well as an explanation of how to impleme
 
 * `emoji.json` is a JSON object containing codepoints and authors for every emoji on this list, excluding updated designs for emojis that have been contributed before.
   * Append the contents of this file to `assets/emoji.json` on the [`main`](https://github.com/vercte/forumoji) branch
-  * Append the contents of this file to `assets/emoji.js` on the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch
+  * Copy the contents of the combined `assets/emoji.json` file into `assets/emoji.js` on the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch
 * `emoji/15x15` contains every emoji on this list in PNG format, ready to be dropped in to the main repository as-is.
   * Copy everything in this folder to `assets/emoji/15x15` into `assets/emoji/15x15` on the [`main`](https://github.com/vercte/forumoji) and [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branches
 
