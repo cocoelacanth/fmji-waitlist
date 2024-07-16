@@ -2,15 +2,18 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **July 3rd, 2024,** the backlog is **empty!**
+As of **July 15th, 2024,** the backlog contains **3 emojis,** dating back to **July 4th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
-<!-- |`XXXXX`|![](emoji/15x15/xxxxx.png)|Name|[🔗](URL)|Author|Date| -->
+|`1F4BB`|![](emoji/15x15/1f4bb.png)|Laptop *|[🔗](https://u.cubeupload.com/CocoTheMii/1f4bb.png)|mybearworld|2024-07-04|
+|`1F5A5`|![](emoji/15x15/1f5a5.png)|Desktop Computer *|[🔗](https://u.cubeupload.com/CocoTheMii/1f5a5.png)|mybearworld|2024-07-04|
+|`1F52F`|![](emoji/15x15/1f52f.png)|Dotted Six-Pointed Star|[🔗](https://u.cubeupload.com/Octostomp/U1F52F.png)|co0lcr34t10ns|2024-07-15|
+<!-- |`XXXXX`|![](emoji/15x15/xxxxx.png)|Name|[🔗](URL)|Author|YYYY-MM-DD| -->
 
-<sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; its entry will need to be updated manually.</sup>
+<sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; if the new emoji has a different author than the old one, its entry will need to be updated manually.</sup>
 
 ## Adding to Forumoji
 Within this repository are some files that have been provided to simplify the process of adding the new emojis to the main repository.
