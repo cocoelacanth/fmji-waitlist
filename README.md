@@ -2,12 +2,14 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **July 15th, 2024,** the backlog contains **3 emojis,** dating back to **July 4th, 2024.**
+As of **July 16th, 2024,** the backlog contains **5 emojis,** dating back to **July 4th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`1F98F`|![](emoji/15x15/1f98f.png)|Rhinoceros|[🔗](https://u.cubeupload.com/popularknight/pixilframe027.png)|floppasyay|2024-07-16|
+|`1F995`|![](emoji/15x15/1f995.png)|Sauropod|[🔗](https://u.cubeupload.com/popularknight/pixilframe028.png)|floppasyay|2024-07-16|
 |`1F52F`|![](emoji/15x15/1f52f.png)|Dotted Six-Pointed Star|[🔗](https://u.cubeupload.com/Octostomp/U1F52F.png)|co0lcr34t10ns|2024-07-15|
 |`1F4BB`|![](emoji/15x15/1f4bb.png)|Laptop *|[🔗](https://u.cubeupload.com/CocoTheMii/1f4bb.png)|mybearworld|2024-07-04|
 |`1F5A5`|![](emoji/15x15/1f5a5.png)|Desktop Computer *|[🔗](https://u.cubeupload.com/CocoTheMii/1f5a5.png)|mybearworld|2024-07-04|
