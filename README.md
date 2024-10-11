@@ -17,7 +17,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F3D6`|![](emoji/15x15/1f3d6.png)|Beach with Umbrella|[🔗](https://u.cubeupload.com/popularknight/pixilframe040.png)|floppasyay|2024-09-21|
 |`1F4B3`|![](emoji/15x15/1f4b3.png)|Credit Card|[🔗](https://u.cubeupload.com/popularknight/pixilframe045.png)|floppasyay|2024-09-21|
 |`1F527`|![](emoji/15x15/1f527.png)|Wrench|[🔗](https://u.cubeupload.com/popularknight/pixilframe048.png)|floppasyay|2024-09-21|
-|`1F6A8`|![](emoji/15x15/1f6a8.png)|Police Car Siren|[🔗](https://u.cubeupload.com/popularknight/pixilframe049.png)|floppasyay|2024-09-21|
+|`1F6A8`|![](emoji/15x15/1f6a8.png)|Police Car Light|[🔗](https://u.cubeupload.com/popularknight/pixilframe049.png)|floppasyay|2024-09-21|
 |`1F952`|![](emoji/15x15/1f952.png)|Cucumber|[🔗](https://u.cubeupload.com/JakubMzTrencina/FcUDAf.png)|JakubMzTrencina|2024-09-06|
 |`1F58C`|![](emoji/15x15/1f58c.png)|Paintbrush|[🔗](https://u.cubeupload.com/JakubMzTrencina/Ayz7bt.png)|JakubMzTrencina|2024-09-06|
 |`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/JakubMzTrencina/MKX8Ug.png)|JakubMzTrencina|2024-|
