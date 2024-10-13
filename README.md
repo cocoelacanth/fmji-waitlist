@@ -51,12 +51,12 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`269B`|![](emoji/15x15/269b.png)|Atom Symbol *|[🔗](https://u.cubeupload.com/RoboChemist/U269B.png)|RobotChickens|2024-08-30|
 |`1F52F`|![](emoji/15x15/1f52f.png)|Dotted Six-Pointed Star|[🔗](https://u.cubeupload.com/RoboChemist/U1F52F.png)|RobotChickens|2024-08-30|
 |`2721`|![](emoji/15x15/2721.png)|Star of David *|[🔗](https://u.cubeupload.com/RoboChemist/U2721.png)|RobotChickens|2024-08-30|
-|`1F330`|![](emoji/15x15/1F330.png)|Chestnut|[🔗](https://u.cubeupload.com/RoboChemist/U1F330.png)|RobotChickens|2024-08-29|
+|`1F330`|![](emoji/15x15/1f330.png)|Chestnut|[🔗](https://u.cubeupload.com/RoboChemist/U1F330.png)|RobotChickens|2024-08-29|
 |`1F9C7`|![](emoji/15x15/1f9c7.png)|Waffle|[🔗](https://u.cubeupload.com/RoboChemist/U1F37F.png)|RobotChickens|2024-08-29|
 |`2623`|![](emoji/15x15/2623.png)|Biohazard|[🔗](https://u.cubeupload.com/RoboChemist/U2623.png)|RobotChickens|2024-08-29|
 |`1F531`|![](emoji/15x15/1f531.png)|Trident|[🔗](https://u.cubeupload.com/RoboChemist/U1F531V2.png)|RobotChickens|2024-08-29|
 |`269C`|![](emoji/15x15/269c.png)|Fleur-de-lis|[🔗](https://u.cubeupload.com/RoboChemist/U269CV2.png)|RobotChickens|2024-08-29|
-|`267B`|![](emoji/15x15/267B.png)|Recycling|[🔗](https://u.cubeupload.com/RoboChemist/U267B.png)|RobotChickens|2024-08-29|
+|`267B`|![](emoji/15x15/267b.png)|Recycling|[🔗](https://u.cubeupload.com/RoboChemist/U267B.png)|RobotChickens|2024-08-29|
 |`1F962`|![](emoji/15x15/1f962.png)|Chopsticks|[🔗](https://u.cubeupload.com/GreyFox/pixilframe02.png)|gplb2718|2024-08-29|
 |`1FA90`|![](emoji/15x15/1fa90.png)|Ringed Planet|[🔗](https://u.cubeupload.com/GreyFox/pixilframe03.png)|gplb2718|2024-08-29|
 |`1F386`|![](emoji/15x15/1f386.png)|Fireworks|[🔗](https://u.cubeupload.com/GreyFox/pixilframe04.png)|gplb2718|2024-08-29|
