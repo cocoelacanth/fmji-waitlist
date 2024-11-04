@@ -35,7 +35,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F58C`|![](emoji/15x15/1f58c.png)|Paintbrush|[🔗](https://u.cubeupload.com/JakubMzTrencina/Ayz7bt.png)|JakubMzTrencina|2024-09-06|
 |`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/JakubMzTrencina/MKX8Ug.png)|JakubMzTrencina|2024-|
 |`1F432`|![](emoji/15x15/1f432.png)|Dragon Face|[🔗](https://u.cubeupload.com/teamsonic2011/1f432.png)|teamsonic2011|2024-09-05|
-|`1F432`|![](emoji/15x15/1F409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
+|`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
 |`1F371`|![](emoji/15x15/1f371.png)|Bento Box|[🔗](https://u.cubeupload.com/popularknight/pixilframe032.png)|floppasyay|2024-09-05|
 |`1FAD3`|![](emoji/15x15/1fad3.png)|Flatbread|[🔗](https://u.cubeupload.com/popularknight/pixilframe031.png)|floppasyay|2024-09-05|
 |`1F96A`|![](emoji/15x15/1f96a.png)|Sandwich|[🔗](https://u.cubeupload.com/popularknight/pixilframe033.png)|floppasyay|2024-09-05|
