@@ -17,8 +17,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F512`|![](emoji/15x15/1f512.png)|Locked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f512.png)|Scratch137|2024-10-16|
 |`1F513`|![](emoji/15x15/1f513.png)|Unlocked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f513.png)|Scratch137|2024-10-16|
 |`1F510`|![](emoji/15x15/1f510.png)|Locked with Key *|[🔗]
-(https://u.cubeupload.com/CocoTheMii/1fa84.png)|Scratch137|2024-10-25|
-|`1F510`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1f510.png)|greg1234567890f, Scratch137|2024-10-16|
+(https://u.cubeupload.com/CocoTheMii/1f510.png)|greg1234567890f, Scratch137|2024-10-16|
 |`1F50F`|![](emoji/15x15/1f50f.png)|Locked with Pen *|[🔗](https://u.cubeupload.com/CocoTheMii/1f50f.png)|greg1234567890f, Scratch137|2024-10-16|
 |`1F511`|![](emoji/15x15/1f511.png)|Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f511.png)|greg1234567890f|2024-10-16|
 |`1FA9F`|![](emoji/15x15/1fa9f.png)|Window *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa9f.png)|ZanterZlox, Scratch137|2024-10-16|
