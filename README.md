@@ -2,13 +2,15 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **November 4th, 2024,** the backlog contains **76 emojis,** dating back to **July 4th, 2024.**
+As of **October 26th, 2024,** the backlog contains **76 emojis,** dating back to **July 4th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
-|`1F6C2`|![](emoji/15x15/1f6c2.png)|Slot Machine|[🔗](https://u.cubeupload.com/Octostomp/777.png)|co0lcr34t10ns|2024-10-21|
+|`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
+|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|Scratch137|2024-10-25|
+|`1F3B0`|![](emoji/15x15/1f3b0.png)|Slot Machine|[🔗](https://u.cubeupload.com/Octostomp/777.png)|co0lcr34t10ns|2024-10-21|
 |`1F6C2`|![](emoji/15x15/1f6c2.png)|Passport Control|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c2.png)|Scratch137, floppasyay|2024-10-16|
 |`1F9BA`|![](emoji/15x15/1f9ba.png)|Safety Vest|[🔗](https://u.cubeupload.com/CocoTheMii/1f9ba.png)|Scratch137|2024-10-16|
 |`1F39E`|![](emoji/15x15/1f39e.png)|Film Frames|[🔗](https://u.cubeupload.com/CocoTheMii/1f39e.png)|Scratch137|2024-10-16|
@@ -17,7 +19,6 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F512`|![](emoji/15x15/1f512.png)|Locked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f512.png)|Scratch137|2024-10-16|
 |`1F513`|![](emoji/15x15/1f513.png)|Unlocked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f513.png)|Scratch137|2024-10-16|
 |`1F510`|![](emoji/15x15/1f510.png)|Locked with Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f510.png)|greg1234567890f, Scratch137|2024-10-16|
-|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|Scratch137|2024-10-21|
 |`1F50F`|![](emoji/15x15/1f50f.png)|Locked with Pen *|[🔗](https://u.cubeupload.com/CocoTheMii/1f50f.png)|greg1234567890f, Scratch137|2024-10-16|
 |`1F511`|![](emoji/15x15/1f511.png)|Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f511.png)|greg1234567890f|2024-10-16|
 |`1FA9F`|![](emoji/15x15/1fa9f.png)|Window *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa9f.png)|ZanterZlox, Scratch137|2024-10-16|
@@ -33,9 +34,8 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F6A8`|![](emoji/15x15/1f6a8.png)|Police Car Light|[🔗](https://u.cubeupload.com/popularknight/pixilframe049.png)|floppasyay|2024-09-21|
 |`1F952`|![](emoji/15x15/1f952.png)|Cucumber|[🔗](https://u.cubeupload.com/JakubMzTrencina/FcUDAf.png)|JakubMzTrencina|2024-09-06|
 |`1F58C`|![](emoji/15x15/1f58c.png)|Paintbrush|[🔗](https://u.cubeupload.com/JakubMzTrencina/Ayz7bt.png)|JakubMzTrencina|2024-09-06|
-|`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/JakubMzTrencina/MKX8Ug.png)|JakubMzTrencina|2024-|
+|`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/JakubMzTrencina/MKX8Ug.png)|JakubMzTrencina|2024-09-06|
 |`1F432`|![](emoji/15x15/1f432.png)|Dragon Face|[🔗](https://u.cubeupload.com/teamsonic2011/1f432.png)|teamsonic2011|2024-09-05|
-|`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
 |`1F371`|![](emoji/15x15/1f371.png)|Bento Box|[🔗](https://u.cubeupload.com/popularknight/pixilframe032.png)|floppasyay|2024-09-05|
 |`1FAD3`|![](emoji/15x15/1fad3.png)|Flatbread|[🔗](https://u.cubeupload.com/popularknight/pixilframe031.png)|floppasyay|2024-09-05|
 |`1F96A`|![](emoji/15x15/1f96a.png)|Sandwich|[🔗](https://u.cubeupload.com/popularknight/pixilframe033.png)|floppasyay|2024-09-05|
