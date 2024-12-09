@@ -9,7 +9,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
 |`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
-|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|Scratch137|2024-10-25|
+|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|notwait|2024-10-25|
 |`1F3B0`|![](emoji/15x15/1f3b0.png)|Slot Machine|[🔗](https://u.cubeupload.com/Octostomp/777.png)|co0lcr34t10ns|2024-10-21|
 |`1F6C2`|![](emoji/15x15/1f6c2.png)|Passport Control|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c2.png)|Scratch137, floppasyay|2024-10-16|
 |`1F9BA`|![](emoji/15x15/1f9ba.png)|Safety Vest|[🔗](https://u.cubeupload.com/CocoTheMii/1f9ba.png)|Scratch137|2024-10-16|
