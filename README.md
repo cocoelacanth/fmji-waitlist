@@ -2,14 +2,33 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **October 26th, 2024,** the backlog contains **76 emojis,** dating back to **July 4th, 2024.**
+As of **November 18th, 2024,** the backlog contains **95 emojis,** dating back to **July 4th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`1F400`|![](emoji/15x15/1f400.png)|Rat|[🔗](https://u.cubeupload.com/a_username/pixilframe010.png)|quadruple_door|2024-11-18|
+|`1F9A0`|![](emoji/15x15/1f9a0.png)|Microbe|[🔗](https://u.cubeupload.com/jmdzti_/1f9a0.png)|jmdzti_0-0|2024-11-18|
+|`1FAB1`|![](emoji/15x15/1fab1.png)|Worm|[🔗](https://u.cubeupload.com/a_username/pixilframe01.png)|quadruple_door|2024-11-17|
+|`1F369`|![](emoji/15x15/1f369.png)|Doughnut|[🔗](https://u.cubeupload.com/a_username/pixilframe02.png)|quadruple_door|2024-11-17|
+|`1F362`|![](emoji/15x15/1f362.png)|Oden|[🔗](https://u.cubeupload.com/a_username/pixilframe03.png)|quadruple_door|2024-11-17|
+|`1F364`|![](emoji/15x15/1f364.png)|Fried Shrimp|[🔗](https://u.cubeupload.com/a_username/pixilframe04.png)|quadruple_door|2024-11-17|
+|`1F9F1`|![](emoji/15x15/1f9f1.png)|Brick|[🔗](https://u.cubeupload.com/a_username/pixilframe05.png)|quadruple_door|2024-11-17|
+|`1F3B3`|![](emoji/15x15/1f3b3.png)|Bowling|[🔗](https://u.cubeupload.com/a_username/pixilframe06.png)|quadruple_door|2024-11-17|
+|`1F3A8`|![](emoji/15x15/1f3a8.png)|Artist Palette|[🔗](https://u.cubeupload.com/a_username/pixilframe07.png)|quadruple_door|2024-11-17|
+|`1F94F`|![](emoji/15x15/1f94f.png)|Flying Disc|[🔗](https://u.cubeupload.com/a_username/pixilframe08.png)|quadruple_door|2024-11-17|
 |`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
 |`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|notwait|2024-10-25|
+|`1F9D1 200D 1F680`|![](emoji/15x15/1f9d1-200d-1f680.png)|Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f680.png)|Scratch137, floppasyay|2024-10-21|
+|`1F468 200D 1F680`|![](emoji/15x15/1f468-200d-1f680.png)|Man Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f680.png)|Scratch137, floppasyay|2024-10-21|
+|`1F469 200D 1F680`|![](emoji/15x15/1f469-200d-1f680.png)|Woman Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2640fe0.png)|Scratch137, floppasyay|2024-10-21|
+|`1F575`|![](emoji/15x15/1f575.png)|Detective *|[🔗](https://u.cubeupload.com/CocoTheMii/1f575.png)|Scratch137, floppasyay|2024-10-21|
+|`1F575 FE0F 200D 2642 FE0F`|![](emoji/15x15/1f575-fe0f-200d-2642-fe0f.png)|Man Detective|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2642fe0.png)|Scratch137|2024-10-21|
+|`1F575 FE0F 200D 2640 FE0F`|![](emoji/15x15/1f575-fe0f-200d-2640-fe0f.png)|Woman Detective|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2640fe0.png)|Scratch137|2024-10-21|
+|`1F95E`|![](emoji/15x15/1f95e.png)|Pancakes *|[🔗](https://u.cubeupload.com/CocoTheMii/1f95e.png)|mcgoomba, Scratch137|2024-10-21|
+|`1F9C0`|![](emoji/15x15/1f9c0.png)|Cheese Wedge *|[🔗](https://u.cubeupload.com/CocoTheMii/1f9c0.png)|mybearworld|2024-10-21|
+|`1F3B9`|![](emoji/15x15/1f3b9.png)|Musical Keyboard *|[🔗](https://u.cubeupload.com/CocoTheMii/1f3b9.png)|Vaibhs11|2024-10-21|
 |`1F3B0`|![](emoji/15x15/1f3b0.png)|Slot Machine|[🔗](https://u.cubeupload.com/Octostomp/777.png)|co0lcr34t10ns|2024-10-21|
 |`1F6C2`|![](emoji/15x15/1f6c2.png)|Passport Control|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c2.png)|Scratch137, floppasyay|2024-10-16|
 |`1F9BA`|![](emoji/15x15/1f9ba.png)|Safety Vest|[🔗](https://u.cubeupload.com/CocoTheMii/1f9ba.png)|Scratch137|2024-10-16|
@@ -22,9 +41,9 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F50F`|![](emoji/15x15/1f50f.png)|Locked with Pen *|[🔗](https://u.cubeupload.com/CocoTheMii/1f50f.png)|greg1234567890f, Scratch137|2024-10-16|
 |`1F511`|![](emoji/15x15/1f511.png)|Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f511.png)|greg1234567890f|2024-10-16|
 |`1FA9F`|![](emoji/15x15/1fa9f.png)|Window *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa9f.png)|ZanterZlox, Scratch137|2024-10-16|
+|`1F4B8`|![](emoji/15x15/1f4b8.png)|Money with Wings|[🔗](https://u.cubeupload.com/jmdzti_/1f4b8.png)|jmdzti_0-0|2024-10-14|
 |`1F453`|![](emoji/15x15/1f453.png)|Glasses|[🔗](https://u.cubeupload.com/Octostomp/pixilframe09.png)|co0lcr34t10ns|2024-10-11|
 |`1F3DC`|![](emoji/15x15/1f3dc.png)|Desert|[🔗](https://u.cubeupload.com/popularknight/pixilframe042.png)|floppasyay|2024-09-21|
-|`1F4B8`|![](emoji/15x15/1f4b8.png)|Money with Wings|[🔗](https://u.cubeupload.com/popularknight/pixilframe043.png)|floppasyay|2024-09-21|
 |`1F3D4`|![](emoji/15x15/1f3d4.png)|Snowcapped Mountain|[🔗](https://u.cubeupload.com/popularknight/pixilframe037.png)|floppasyay|2024-09-21|
 |`1F5FB`|![](emoji/15x15/1f5fb.png)|Mount Fuji|[🔗](https://u.cubeupload.com/popularknight/pixilframe038.png)|floppasyay|2024-09-21|
 |`1F3D5`|![](emoji/15x15/1f3d5.png)|Camping|[🔗](https://u.cubeupload.com/popularknight/pixilframe039.png)|floppasyay|2024-09-21|
