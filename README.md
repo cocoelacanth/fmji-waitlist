@@ -2,12 +2,13 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **November 18th, 2024,** the backlog contains **95 emojis,** dating back to **July 4th, 2024.**
+As of **December 12th, 2024,** the backlog contains **96 emojis,** dating back to **July 4th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife *|[🔗](https://u.cubeupload.com/CocoTheMii/1f374.png)|quadruple_door|2024-12-12|
 |`1F400`|![](emoji/15x15/1f400.png)|Rat|[🔗](https://u.cubeupload.com/a_username/pixilframe010.png)|quadruple_door|2024-11-18|
 |`1F9A0`|![](emoji/15x15/1f9a0.png)|Microbe|[🔗](https://u.cubeupload.com/jmdzti_/1f9a0.png)|jmdzti_0-0|2024-11-18|
 |`1FAB1`|![](emoji/15x15/1fab1.png)|Worm|[🔗](https://u.cubeupload.com/a_username/pixilframe01.png)|quadruple_door|2024-11-17|
