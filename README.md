@@ -2,7 +2,7 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-As of **December 12th, 2024,** the backlog contains **96 emojis,** dating back to **July 4th, 2024.**
+Currently, the backlog contains **97 emojis,** dated between **November 3rd, 2023** and **December 12th, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
@@ -104,6 +104,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F995`|![](emoji/15x15/1f995.png)|Sauropod|[🔗](https://u.cubeupload.com/popularknight/pixilframe028.png)|floppasyay|2024-07-16|
 |`1F4BB`|![](emoji/15x15/1f4bb.png)|Laptop *|[🔗](https://u.cubeupload.com/CocoTheMii/1f4bb.png)|mybearworld|2024-07-04|
 |`1F5A5`|![](emoji/15x15/1f5a5.png)|Desktop Computer *|[🔗](https://u.cubeupload.com/CocoTheMii/1f5a5.png)|mybearworld|2024-07-04|
+|`1FAA8`|![](emoji/15x15/1faa8.png)|Rock|[🔗](https://u.cubeupload.com/64lu/rock.png)|64lu|2023-11-03|
 <!-- |`XXXXX`|![](emoji/15x15/xxxxx.png)|Name|[🔗](URL)|Author|YYYY-MM-DD| -->
 
 <sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; if the new emoji has a different author than the old one, its entry will need to be updated manually.</sup>
