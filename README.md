@@ -2,12 +2,18 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-Currently, the backlog contains **97 emojis,** dated between **November 3rd, 2023** and **December 12th, 2024.**
+Currently, the backlog contains **103 emojis,** dated between **November 3rd, 2023** and **December 22nd, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`231B`|![](emoji/15x15/231b.png)|Hourglass Done *|[🔗](https://u.cubeupload.com/CocoTheMii/231b.png)|Scratch137|2024-12-22|
+|`23F3`|![](emoji/15x15/23f3.png)|Hourglass Not Done *|[🔗](https://u.cubeupload.com/CocoTheMii/23f3.png)|Scratch137|2024-12-22|
+|`1FAE5`|![](emoji/15x15/1fae5.png)|Dotted Line Face *|[🔗](https://u.cubeupload.com/CocoTheMii/1fae5.png)|Scratch137|2024-12-22|
+|`1F608`|![](emoji/15x15/1f608.png)|Smiling Face with Horns *|[🔗](https://u.cubeupload.com/CocoTheMii/1f608.png)|Scratch137|2024-12-22|
+|`1F47F`|![](emoji/15x15/1f47f.png)|Angry Face with Horns *|[🔗](https://u.cubeupload.com/CocoTheMii/1f47f.png)|Scratch137|2024-12-22|
+|`1F922`|![](emoji/15x15/1f922.png)|Nauseated Face *|[🔗](https://u.cubeupload.com/CocoTheMii/1f922.png)|Scratch137|2024-12-22|
 |`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife *|[🔗](https://u.cubeupload.com/CocoTheMii/1f374.png)|quadruple_door|2024-12-12|
 |`1F400`|![](emoji/15x15/1f400.png)|Rat|[🔗](https://u.cubeupload.com/a_username/pixilframe010.png)|quadruple_door|2024-11-18|
 |`1F9A0`|![](emoji/15x15/1f9a0.png)|Microbe|[🔗](https://u.cubeupload.com/jmdzti_/1f9a0.png)|jmdzti_0-0|2024-11-18|
