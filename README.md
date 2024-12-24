@@ -128,6 +128,6 @@ Below is a list of important assets, as well as an explanation of how to impleme
 * `emoji/15x15` contains every emoji on this list in PNG format, ready to be dropped in to the main repository as-is.
   * Copy everything in this folder into `assets/emoji/15x15` on the [`main`](https://github.com/vercte/forumoji) branch
 
-Beyond just copying these files over, also take note of any emojis marked with an asterisk * in the waitlist above. These are updates to existing emojis, and adding these may involve updating the listed authors in `assets/emoji.json`.
+Beyond just copying these files over, also take note of any emojis marked with an asterisk * in the waitlist above. These are updates to existing emojis; adding them will require updating the listed authors in `assets/emoji.json`.
 
 Once you have completed all of the above steps, don't forget to build the website with `npm run build` and copy the contents of the `dist` folder over to the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch.
