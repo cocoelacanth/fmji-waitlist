@@ -8,13 +8,13 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
-|`231B`|![](emoji/15x15/231b.png)|Hourglass Done *|[🔗](https://u.cubeupload.com/CocoTheMii/231b.png)|Scratch137|2024-12-22|
-|`23F3`|![](emoji/15x15/23f3.png)|Hourglass Not Done *|[🔗](https://u.cubeupload.com/CocoTheMii/23f3.png)|Scratch137|2024-12-22|
-|`1FAE5`|![](emoji/15x15/1fae5.png)|Dotted Line Face *|[🔗](https://u.cubeupload.com/CocoTheMii/1fae5.png)|Scratch137|2024-12-22|
-|`1F608`|![](emoji/15x15/1f608.png)|Smiling Face with Horns *|[🔗](https://u.cubeupload.com/CocoTheMii/1f608.png)|Scratch137|2024-12-22|
-|`1F47F`|![](emoji/15x15/1f47f.png)|Angry Face with Horns *|[🔗](https://u.cubeupload.com/CocoTheMii/1f47f.png)|Scratch137|2024-12-22|
-|`1F922`|![](emoji/15x15/1f922.png)|Nauseated Face *|[🔗](https://u.cubeupload.com/CocoTheMii/1f922.png)|Scratch137|2024-12-22|
-|`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife *|[🔗](https://u.cubeupload.com/CocoTheMii/1f374.png)|quadruple_door|2024-12-12|
+|`231B`|![](emoji/15x15/231b.png)|Hourglass Done|[🔗](https://u.cubeupload.com/CocoTheMii/231b.png)|Scratch137|2024-12-22|
+|`23F3`|![](emoji/15x15/23f3.png)|Hourglass Not Done|[🔗](https://u.cubeupload.com/CocoTheMii/23f3.png)|Scratch137|2024-12-22|
+|`1FAE5`|![](emoji/15x15/1fae5.png)|Dotted Line Face|[🔗](https://u.cubeupload.com/CocoTheMii/1fae5.png)|Scratch137|2024-12-22|
+|`1F608`|![](emoji/15x15/1f608.png)|Smiling Face with Horns|[🔗](https://u.cubeupload.com/CocoTheMii/1f608.png)|Scratch137|2024-12-22|
+|`1F47F`|![](emoji/15x15/1f47f.png)|Angry Face with Horns|[🔗](https://u.cubeupload.com/CocoTheMii/1f47f.png)|Scratch137|2024-12-22|
+|`1F922`|![](emoji/15x15/1f922.png)|Nauseated Face|[🔗](https://u.cubeupload.com/CocoTheMii/1f922.png)|Scratch137|2024-12-22|
+|`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife|[🔗](https://u.cubeupload.com/CocoTheMii/1f374.png)|quadruple_door|2024-12-12|
 |`1F400`|![](emoji/15x15/1f400.png)|Rat|[🔗](https://u.cubeupload.com/a_username/pixilframe010.png)|quadruple_door|2024-11-18|
 |`1F9A0`|![](emoji/15x15/1f9a0.png)|Microbe|[🔗](https://u.cubeupload.com/jmdzti_/1f9a0.png)|jmdzti_0-0|2024-11-18|
 |`1FAB1`|![](emoji/15x15/1fab1.png)|Worm|[🔗](https://u.cubeupload.com/a_username/pixilframe01.png)|quadruple_door|2024-11-17|
@@ -26,7 +26,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F3A8`|![](emoji/15x15/1f3a8.png)|Artist Palette|[🔗](https://u.cubeupload.com/a_username/pixilframe07.png)|quadruple_door|2024-11-17|
 |`1F94F`|![](emoji/15x15/1f94f.png)|Flying Disc|[🔗](https://u.cubeupload.com/a_username/pixilframe08.png)|quadruple_door|2024-11-17|
 |`1F409`|![](emoji/15x15/1f409.png)|Dragon|[🔗](https://u.cubeupload.com/teamsonic2011/1f409.png)|teamsonic2011|2024-10-26|
-|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|notwait|2024-10-25|
+|`1FA84`|![](emoji/15x15/1fa84.png)|Magic Wand|[🔗](https://u.cubeupload.com/CocoTheMii/1fa84.png)|notwait|2024-10-25|
 |`1F9D1 200D 1F680`|![](emoji/15x15/1f9d1-200d-1f680.png)|Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f9d1200d1f680.png)|Scratch137, floppasyay|2024-10-21|
 |`1F468 200D 1F680`|![](emoji/15x15/1f468-200d-1f680.png)|Man Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f468200d1f680.png)|Scratch137, floppasyay|2024-10-21|
 |`1F469 200D 1F680`|![](emoji/15x15/1f469-200d-1f680.png)|Woman Astronaut *|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2640fe0.png)|Scratch137, floppasyay|2024-10-21|
@@ -34,19 +34,19 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F575 FE0F 200D 2642 FE0F`|![](emoji/15x15/1f575-fe0f-200d-2642-fe0f.png)|Man Detective|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2642fe0.png)|Scratch137|2024-10-21|
 |`1F575 FE0F 200D 2640 FE0F`|![](emoji/15x15/1f575-fe0f-200d-2640-fe0f.png)|Woman Detective|[🔗](https://u.cubeupload.com/CocoTheMii/1f575fe0f200d2640fe0.png)|Scratch137|2024-10-21|
 |`1F95E`|![](emoji/15x15/1f95e.png)|Pancakes *|[🔗](https://u.cubeupload.com/CocoTheMii/1f95e.png)|mcgoomba, Scratch137|2024-10-21|
-|`1F9C0`|![](emoji/15x15/1f9c0.png)|Cheese Wedge *|[🔗](https://u.cubeupload.com/CocoTheMii/1f9c0.png)|mybearworld|2024-10-21|
-|`1F3B9`|![](emoji/15x15/1f3b9.png)|Musical Keyboard *|[🔗](https://u.cubeupload.com/CocoTheMii/1f3b9.png)|Vaibhs11|2024-10-21|
+|`1F9C0`|![](emoji/15x15/1f9c0.png)|Cheese Wedge|[🔗](https://u.cubeupload.com/CocoTheMii/1f9c0.png)|mybearworld|2024-10-21|
+|`1F3B9`|![](emoji/15x15/1f3b9.png)|Musical Keyboard|[🔗](https://u.cubeupload.com/CocoTheMii/1f3b9.png)|Vaibhs11|2024-10-21|
 |`1F3B0`|![](emoji/15x15/1f3b0.png)|Slot Machine|[🔗](https://u.cubeupload.com/Octostomp/777.png)|co0lcr34t10ns|2024-10-21|
 |`1F6C2`|![](emoji/15x15/1f6c2.png)|Passport Control|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c2.png)|Scratch137, floppasyay|2024-10-16|
 |`1F9BA`|![](emoji/15x15/1f9ba.png)|Safety Vest|[🔗](https://u.cubeupload.com/CocoTheMii/1f9ba.png)|Scratch137|2024-10-16|
 |`1F39E`|![](emoji/15x15/1f39e.png)|Film Frames|[🔗](https://u.cubeupload.com/CocoTheMii/1f39e.png)|Scratch137|2024-10-16|
 |`1FAAC`|![](emoji/15x15/1faac.png)|Hamsa|[🔗](https://u.cubeupload.com/CocoTheMii/1faac.png)|Scratch137|2024-10-16|
-|`1F6C3`|![](emoji/15x15/1f6c3.png)|Customs *|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c3.png)|floppasyay|2024-10-16|
-|`1F512`|![](emoji/15x15/1f512.png)|Locked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f512.png)|Scratch137|2024-10-16|
-|`1F513`|![](emoji/15x15/1f513.png)|Unlocked *|[🔗](https://u.cubeupload.com/CocoTheMii/1f513.png)|Scratch137|2024-10-16|
+|`1F6C3`|![](emoji/15x15/1f6c3.png)|Customs|[🔗](https://u.cubeupload.com/CocoTheMii/1f6c3.png)|floppasyay|2024-10-16|
+|`1F512`|![](emoji/15x15/1f512.png)|Locked|[🔗](https://u.cubeupload.com/CocoTheMii/1f512.png)|Scratch137|2024-10-16|
+|`1F513`|![](emoji/15x15/1f513.png)|Unlocked|[🔗](https://u.cubeupload.com/CocoTheMii/1f513.png)|Scratch137|2024-10-16|
 |`1F510`|![](emoji/15x15/1f510.png)|Locked with Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f510.png)|greg1234567890f, Scratch137|2024-10-16|
 |`1F50F`|![](emoji/15x15/1f50f.png)|Locked with Pen *|[🔗](https://u.cubeupload.com/CocoTheMii/1f50f.png)|greg1234567890f, Scratch137|2024-10-16|
-|`1F511`|![](emoji/15x15/1f511.png)|Key *|[🔗](https://u.cubeupload.com/CocoTheMii/1f511.png)|greg1234567890f|2024-10-16|
+|`1F511`|![](emoji/15x15/1f511.png)|Key|[🔗](https://u.cubeupload.com/CocoTheMii/1f511.png)|greg1234567890f|2024-10-16|
 |`1FA9F`|![](emoji/15x15/1fa9f.png)|Window *|[🔗](https://u.cubeupload.com/CocoTheMii/1fa9f.png)|ZanterZlox, Scratch137|2024-10-16|
 |`1F4B8`|![](emoji/15x15/1f4b8.png)|Money with Wings|[🔗](https://u.cubeupload.com/jmdzti_/1f4b8.png)|jmdzti_0-0|2024-10-14|
 |`1F453`|![](emoji/15x15/1f453.png)|Glasses|[🔗](https://u.cubeupload.com/Octostomp/pixilframe09.png)|co0lcr34t10ns|2024-10-11|
@@ -109,12 +109,14 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F4E6`|![](emoji/15x15/1f4e6.png)|Package|[🔗](https://u.cubeupload.com/greg1234567890f/package.png)|greg1234567890f|2024-08-10|
 |`1F98F`|![](emoji/15x15/1f98f.png)|Rhinoceros|[🔗](https://u.cubeupload.com/popularknight/pixilframe027.png)|floppasyay|2024-07-16|
 |`1F995`|![](emoji/15x15/1f995.png)|Sauropod|[🔗](https://u.cubeupload.com/popularknight/pixilframe028.png)|floppasyay|2024-07-16|
-|`1F4BB`|![](emoji/15x15/1f4bb.png)|Laptop *|[🔗](https://u.cubeupload.com/CocoTheMii/1f4bb.png)|mybearworld|2024-07-04|
-|`1F5A5`|![](emoji/15x15/1f5a5.png)|Desktop Computer *|[🔗](https://u.cubeupload.com/CocoTheMii/1f5a5.png)|mybearworld|2024-07-04|
+|`1F4BB`|![](emoji/15x15/1f4bb.png)|Laptop|[🔗](https://u.cubeupload.com/CocoTheMii/1f4bb.png)|mybearworld|2024-07-04|
+|`1F5A5`|![](emoji/15x15/1f5a5.png)|Desktop Computer|[🔗](https://u.cubeupload.com/CocoTheMii/1f5a5.png)|mybearworld|2024-07-04|
 |`1FAA8`|![](emoji/15x15/1faa8.png)|Rock|[🔗](https://u.cubeupload.com/64lu/rock.png)|64lu|2023-11-03|
 <!-- |`XXXXX`|![](emoji/15x15/xxxxx.png)|Name|[🔗](URL)|Author|YYYY-MM-DD| -->
 
-<sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; if the new emoji has a different author than the old one, its entry will need to be updated manually.</sup>
+<sup>* Updated design for an emoji already present in the main Forumoji repository. This emoji is not included in the waitlist `emoji.json`; its entry will need to be updated manually.</sup>
+
+<sup>If an updated emoji was contributed by the same person who created the original version, it is *not* marked with an asterisk. No additional action is needed for these emojis.</sup>
 
 ## Adding to Forumoji
 Within this repository are some files that have been provided to simplify the process of adding the new emojis to the main repository.
