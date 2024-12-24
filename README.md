@@ -103,6 +103,7 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F9EE`|![](emoji/15x15/1f9ee.png)|Abacus|[🔗](https://u.cubeupload.com/GreyFox/pixilframe05.png)|gplb2718|2024-08-29|
 |`1F954`|![](emoji/15x15/1f954.png)|Potato|[🔗](https://u.cubeupload.com/GreyFox/pixilframe0.png)|gplb2718|2024-08-29|
 |`1F33D`|![](emoji/15x15/1f33d.png)|Ear of Corn|[🔗](https://u.cubeupload.com/GreyFox/pixilframe01.png)|gplb2718|2024-08-29|
+|`1F981`|![](emoji/15x15/1f981.png)|Lion|[🔗](https://u.cubeupload.com/teamsonic2011/lion1.png)|teamsonic2011|2024-08-26|
 |`1F6AD`|![](emoji/15x15/1f6ad.png)|No Smoking|[🔗](https://u.cubeupload.com/greg1234567890f/nosmoking.png)|tarsovbak, greg1234567890f|2024-08-10|
 |`1FAE7`|![](emoji/15x15/1fae7.png)|Bubbles|[🔗](https://u.cubeupload.com/greg1234567890f/bubbles.png)|greg1234567890f|2024-08-10|
 |`1F4E6`|![](emoji/15x15/1f4e6.png)|Package|[🔗](https://u.cubeupload.com/greg1234567890f/package.png)|greg1234567890f|2024-08-10|
