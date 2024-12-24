@@ -2,7 +2,7 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-Currently, the backlog contains **103 emojis,** dated between **November 3rd, 2023** and **December 22nd, 2024.**
+Currently, the backlog contains **104 emojis,** dated between **November 3rd, 2023** and **December 22nd, 2024.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
@@ -121,10 +121,11 @@ Within this repository are some files that have been provided to simplify the pr
 
 Below is a list of important assets, as well as an explanation of how to implement each.
 
-* `emoji.json` is a JSON object containing codepoints and authors for every emoji on this list, excluding updated designs for emojis that have been contributed before.
+* `emoji.json` is a JSON file containing codepoints and authors for every emoji on this list, excluding updated designs for emojis that have been contributed before.
   * Append the contents of this file to `assets/emoji.json` on the [`main`](https://github.com/vercte/forumoji) branch
-  * Copy the contents of the combined `assets/emoji.json` file into `assets/emoji.js` on the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch
 * `emoji/15x15` contains every emoji on this list in PNG format, ready to be dropped in to the main repository as-is.
-  * Copy everything in this folder into `assets/emoji/15x15` on the [`main`](https://github.com/vercte/forumoji) and [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branches
+  * Copy everything in this folder into `assets/emoji/15x15` on the [`main`](https://github.com/vercte/forumoji) branch
 
 Beyond just copying these files over, also take note of any emojis marked with an asterisk * in the waitlist above. These are updates to existing emojis, and adding these may involve updating the listed authors in `assets/emoji.json`.
+
+Once you have completed all of the above steps, don't forget to build the website with `npm run build` and copy the contents of the `dist` folder over to the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch.
