@@ -130,4 +130,4 @@ Below is a list of important assets, as well as an explanation of how to impleme
 
 Beyond just copying these files over, also take note of any emojis marked with an asterisk * in the waitlist above. These are updates to existing emojis; adding them will require updating the listed authors in `assets/emoji.json`.
 
-Once you have completed all of the above steps, don't forget to build the website with `npm run build` and copy the contents of the `dist` folder over to the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch.
+Once you have completed all of the above steps, don't forget to deploy to the [`gh-pages`](https://github.com/vercte/forumoji/tree/gh-pages) branch.
