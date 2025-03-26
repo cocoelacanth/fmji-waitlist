@@ -8,13 +8,24 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`1F6D7`|![](emoji/15x15/1f6d7.png)|Elevator|[🔗](https://u.cubeupload.com/anewbietrustme/elevator.png)|IAmANewbieTrustMe|2025-03-25|
+|`1F9F5`|![](emoji/15x15/1f9f5.png)|Thread|[🔗](https://u.cubeupload.com/anewbietrustme/thready.png)|IAmANewbieTrustMe|2025-03-25|
+|`1FAE7`|![](emoji/15x15/1fae7.png)|Bubbles|[🔗](https://u.cubeupload.com/greg1234567890f/bubbles.png)|IAmANewbieTrustMe|2025-03-25|
+|`1F6A6`|![](emoji/15x15/1f6a6.png)|Vertical Traffic Light|[🔗](https://u.cubeupload.com/CocoTheMii/1f6a6.png)|hydrofungus|2025-03-25|
+|`1F953`|![](emoji/15x15/1f953.png)|Bacon|[🔗](https://u.cubeupload.com/CocoTheMii/1f953.png)|quadruple_door|2025-03-25|
+|`1F95C`|![](emoji/15x15/1f95c.png)|Peanuts|[🔗](https://u.cubeupload.com/CocoTheMii/1f95c.png)|quadruple_door|2025-03-25|
+|`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife|[🔗](https://u.cubeupload.com/Voxalice_/1f3741.png)|quadruple_door|2025-03-16|
+|`1F6BD`|![](emoji/15x15/1f6bd.png)|Toilet|[🔗](https://u.cubeupload.com/Voxalice_/1f6bd1.png)|quadruple_door|2025-03-16|
+|`1F95B`|![](emoji/15x15/1f95b.png)|Glass of Milk|[🔗](https://u.cubeupload.com/Voxalice_/1f95b1.png)|quadruple_door|2025-03-16|
+|`1F6CE`|![](emoji/15x15/1f6ce.png)|Bellhop Bell|[🔗](https://u.cubeupload.com/jmdzti_/1f6ce.png)|jmdzti_0-0|2025-02-08|
+|`1F37D`|![](emoji/15x15/1f37d.png)|Fork and Knife with Plate|[🔗](https://u.cubeupload.com/Octostomp/forkknifeplate.png)|co0lcr34t10ns|2025-01-05|
+|`1F642 200D 2195`|![](emoji/15x15/1f642-200d-2195.png)|Head Shaking Vertically|[🔗](https://u.cubeupload.com/jmdzti_/1f6422195112.png)|jmdzti_0-0|2024-12-23|
 |`231B`|![](emoji/15x15/231b.png)|Hourglass Done|[🔗](https://u.cubeupload.com/CocoTheMii/231b.png)|Scratch137|2024-12-22|
 |`23F3`|![](emoji/15x15/23f3.png)|Hourglass Not Done|[🔗](https://u.cubeupload.com/CocoTheMii/23f3.png)|Scratch137|2024-12-22|
 |`1FAE5`|![](emoji/15x15/1fae5.png)|Dotted Line Face|[🔗](https://u.cubeupload.com/CocoTheMii/1fae5.png)|Scratch137|2024-12-22|
 |`1F608`|![](emoji/15x15/1f608.png)|Smiling Face with Horns|[🔗](https://u.cubeupload.com/CocoTheMii/1f608.png)|Scratch137|2024-12-22|
 |`1F47F`|![](emoji/15x15/1f47f.png)|Angry Face with Horns|[🔗](https://u.cubeupload.com/CocoTheMii/1f47f.png)|Scratch137|2024-12-22|
 |`1F922`|![](emoji/15x15/1f922.png)|Nauseated Face|[🔗](https://u.cubeupload.com/CocoTheMii/1f922.png)|Scratch137|2024-12-22|
-|`1F374`|![](emoji/15x15/1f374.png)|Fork and Knife|[🔗](https://u.cubeupload.com/CocoTheMii/1f374.png)|quadruple_door|2024-12-12|
 |`1F400`|![](emoji/15x15/1f400.png)|Rat|[🔗](https://u.cubeupload.com/a_username/pixilframe010.png)|quadruple_door|2024-11-18|
 |`1F9A0`|![](emoji/15x15/1f9a0.png)|Microbe|[🔗](https://u.cubeupload.com/jmdzti_/1f9a0.png)|jmdzti_0-0|2024-11-18|
 |`1FAB1`|![](emoji/15x15/1fab1.png)|Worm|[🔗](https://u.cubeupload.com/a_username/pixilframe01.png)|quadruple_door|2024-11-17|
@@ -105,7 +116,6 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F33D`|![](emoji/15x15/1f33d.png)|Ear of Corn|[🔗](https://u.cubeupload.com/GreyFox/pixilframe01.png)|gplb2718|2024-08-29|
 |`1F981`|![](emoji/15x15/1f981.png)|Lion|[🔗](https://u.cubeupload.com/teamsonic2011/lion1.png)|teamsonic2011|2024-08-26|
 |`1F6AD`|![](emoji/15x15/1f6ad.png)|No Smoking|[🔗](https://u.cubeupload.com/greg1234567890f/nosmoking.png)|tarsovbak, greg1234567890f|2024-08-10|
-|`1FAE7`|![](emoji/15x15/1fae7.png)|Bubbles|[🔗](https://u.cubeupload.com/greg1234567890f/bubbles.png)|greg1234567890f|2024-08-10|
 |`1F4E6`|![](emoji/15x15/1f4e6.png)|Package|[🔗](https://u.cubeupload.com/greg1234567890f/package.png)|greg1234567890f|2024-08-10|
 |`1F98F`|![](emoji/15x15/1f98f.png)|Rhinoceros|[🔗](https://u.cubeupload.com/popularknight/pixilframe027.png)|floppasyay|2024-07-16|
 |`1F995`|![](emoji/15x15/1f995.png)|Sauropod|[🔗](https://u.cubeupload.com/popularknight/pixilframe028.png)|floppasyay|2024-07-16|
