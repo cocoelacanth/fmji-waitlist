@@ -2,7 +2,7 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-Currently, the backlog contains **104 emojis,** dated between **November 3rd, 2023** and **December 22nd, 2024.**
+Currently, the backlog contains **114 emojis,** dated between **November 3rd, 2023** and **March 25th, 2025.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
