@@ -9,14 +9,6 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
 |`270A`|![](emoji/15x15/270a.png)|Raised Fist|[🔗](https://u.cubeupload.com/mcmaster3964/forumojiraisedfist27.png)|Minecraft_Master3964|2025-08-04|
-|`1F5D1`|![](emoji/15x15/1f5d1.png)|Wastebasket|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigotrashcan.png)|camiloynigo|2025-07-27|
-|`1F52F`|![](emoji/15x15/1f52f.png)|Dotted Six-Pointed Star|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigostarofdav.png)|camiloynigo|2025-07-27|
-|`1F488`|![](emoji/15x15/1f488.png)|Barber Pole|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigobarberpol.png)|camiloynigo|2025-07-28|
-|`1FA79`|![](emoji/15x15/1fa79.png)|Adhesive Bandage|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigobandage.png)|camiloynigo|2025-07-28|
-|`2744`|![](emoji/15x15/2744.png)|Snowflake|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigosnowflake.png)|camiloynigo|2025-07-29|
-|`1F3B3`|![](emoji/15x15/1f3b3.png)|Bowling|[🔗](https://u.cubeupload.com/jmdzti_/939download.png)|camiloynigo|2025-07-29|
-|`1F68F`|![](emoji/15x15/1f68f.png)|Bus Stop|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigoidkwthist.png)|camiloynigo|2025-07-31|
-|`1F3CF`|![](emoji/15x15/1f3cf.png)|Cricket Game|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigoisthatate.png)|camiloynigo|2025-07-31|
 |`26F1`|![](emoji/15x15/26f1.png)|Umbrella on Ground|[🔗](https://u.cubeupload.com/jmdzti_/yoHPEJ.png)|camiloynigo|2025-08-01|
 |`1F3AC`|![](emoji/15x15/1f3ac.png)|Clapper Board|[🔗](https://u.cubeupload.com/jmdzti_/SX2ua5.png)|camiloynigo|2025-08-01|
 |`1F4F9`|![](emoji/15x15/1f4f9.png)|Video Camera|[🔗](https://u.cubeupload.com/jmdzti_/2xJJ9f.png)|camiloynigo|2025-08-01|
@@ -25,6 +17,14 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F6BF`|![](emoji/15x15/1f6bf.png)|Shower|[🔗](https://u.cubeupload.com/jmdzti_/DizhwV.png)|camiloynigo|2025-08-01|
 |`1F39A`|![](emoji/15x15/1f39a.png)|Level Slider|[🔗](https://u.cubeupload.com/jmdzti_/96YCmc.png)|camiloynigo|2025-08-01|
 |`2604`|![](emoji/15x15/2604.png)|Comet|[🔗](https://u.cubeupload.com/jmdzti_/4pYlji.png)|camiloynigo|2025-08-01|
+|`1F68F`|![](emoji/15x15/1f68f.png)|Bus Stop|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigoidkwthist.png)|camiloynigo|2025-07-31|
+|`1F3CF`|![](emoji/15x15/1f3cf.png)|Cricket Game|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigoisthatate.png)|camiloynigo|2025-07-31|
+|`2744`|![](emoji/15x15/2744.png)|Snowflake|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigosnowflake.png)|camiloynigo|2025-07-29|
+|`1F3B3`|![](emoji/15x15/1f3b3.png)|Bowling|[🔗](https://u.cubeupload.com/jmdzti_/939download.png)|camiloynigo|2025-07-29|
+|`1F488`|![](emoji/15x15/1f488.png)|Barber Pole|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigobarberpol.png)|camiloynigo|2025-07-28|
+|`1FA79`|![](emoji/15x15/1fa79.png)|Adhesive Bandage|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigobandage.png)|camiloynigo|2025-07-28|
+|`1F5D1`|![](emoji/15x15/1f5d1.png)|Wastebasket|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigotrashcan.png)|camiloynigo|2025-07-27|
+|`1F52F`|![](emoji/15x15/1f52f.png)|Dotted Six-Pointed Star|[🔗](https://u.cubeupload.com/jmdzti_/camiloynigostarofdav.png)|camiloynigo|2025-07-27|
 |`1F33C`|![](emoji/15x15/1f33c.png)|Blossom|[🔗](https://u.cubeupload.com/jmdzti_/32aNewPiskel2.png)|jmdzti_0-0|2025-06-18|
 |`1F6A7`|![](emoji/15x15/1f6a7.png)|Construction|[🔗](https://u.cubeupload.com/HGS_Images/barrierFM.png)|HighlaneGamingStudio|2025-06-18|
 |`1F4A6`|![](emoji/15x15/1f4a6.png)|Sweat Droplets|[🔗](https://u.cubeupload.com/HGS_Images/dropletsFM.png)|HighlaneGamingStudio|2025-06-18|
