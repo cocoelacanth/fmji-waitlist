@@ -2,12 +2,20 @@
 
 The following is a list of emojis that have been contributed to the Forumoji project, but have yet to be added to the [GitHub repository](https://github.com/vercte/forumoji) or uploaded to the official Cubeupload account.
 
-Currently, the backlog contains **135 emojis,** dated between **November 3rd, 2023** and **August 4th, 2025.**
+Currently, the waitlist contains **143 emojis,** dated between **November 3rd, 2023** and **November 22nd, 2025.**
 
 The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these emojis to be used on the Scratch Forums.
 
 |Codepoint|Emoji|Name|URL|Contributor(s)|Date Contributed|
 |:-------:|:---:|:---|:-:|:-------------|:---------------|
+|`1F363`|![](emoji/15x15/1f363.png)|Sushi|[🔗](https://u.cubeupload.com/popularknight/202511220hlKleki.png)|floppasyay|2025-11-22|
+|`1F95F`|![](emoji/15x15/1f95f.png)|Dumpling|[🔗](https://u.cubeupload.com/popularknight/202511220hwKleki.png)|floppasyay|2025-11-22|
+|`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/popularknight/202511220ipKleki.png)|floppasyay|2025-11-22|
+|`1F411`|![](emoji/15x15/1f411.png)|Ewe|[🔗](https://u.cubeupload.com/popularknight/202511220j9Kleki.png)|floppasyay|2025-11-22|
+|`1F40F`|![](emoji/15x15/1f40f.png)|Ram|[🔗](https://u.cubeupload.com/popularknight/202511220j8Kleki.png)|floppasyay|2025-11-22|
+|`1F6E4`|![](emoji/15x15/1f6e4.png)|Railway Track|[🔗](https://u.cubeupload.com/CocoTheMii/camiloynigo3.png)|camiloynigo|2025-08-08|
+|`1F48D`|![](emoji/15x15/1f48d.png)|Ring|[🔗](https://u.cubeupload.com/CocoTheMii/camiloynigo2.png)|camiloynigo|2025-08-08|
+|`1FA9C`|![](emoji/15x15/1fa9c.png)|Ladder|[🔗](https://u.cubeupload.com/CocoTheMii/camiloynigo1.png)|camiloynigo|2025-08-08|
 |`270A`|![](emoji/15x15/270a.png)|Raised Fist|[🔗](https://u.cubeupload.com/mcmaster3964/forumojiraisedfist27.png)|Minecraft_Master3964|2025-08-04|
 |`26F1`|![](emoji/15x15/26f1.png)|Umbrella on Ground|[🔗](https://u.cubeupload.com/jmdzti_/yoHPEJ.png)|camiloynigo|2025-08-01|
 |`1F3AC`|![](emoji/15x15/1f3ac.png)|Clapper Board|[🔗](https://u.cubeupload.com/jmdzti_/SX2ua5.png)|camiloynigo|2025-08-01|
@@ -95,7 +103,6 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F527`|![](emoji/15x15/1f527.png)|Wrench|[🔗](https://u.cubeupload.com/popularknight/pixilframe048.png)|floppasyay|2024-09-21|
 |`1F952`|![](emoji/15x15/1f952.png)|Cucumber|[🔗](https://u.cubeupload.com/JakubMzTrencina/FcUDAf.png)|JakubMzTrencina|2024-09-06|
 |`1F58C`|![](emoji/15x15/1f58c.png)|Paintbrush|[🔗](https://u.cubeupload.com/JakubMzTrencina/Ayz7bt.png)|JakubMzTrencina|2024-09-06|
-|`1F4FC`|![](emoji/15x15/1f4fc.png)|Videocassette|[🔗](https://u.cubeupload.com/JakubMzTrencina/MKX8Ug.png)|JakubMzTrencina|2024-09-06|
 |`1F432`|![](emoji/15x15/1f432.png)|Dragon Face|[🔗](https://u.cubeupload.com/teamsonic2011/1f432.png)|teamsonic2011|2024-09-05|
 |`1F371`|![](emoji/15x15/1f371.png)|Bento Box|[🔗](https://u.cubeupload.com/popularknight/pixilframe032.png)|floppasyay|2024-09-05|
 |`1FAD3`|![](emoji/15x15/1fad3.png)|Flatbread|[🔗](https://u.cubeupload.com/popularknight/pixilframe031.png)|floppasyay|2024-09-05|
@@ -106,7 +113,6 @@ The "URL" column contains hyperlinks to each emoji on Cubeupload, enabling these
 |`1F31F`|![](emoji/15x15/1f31f.png)|Glowing Star|[🔗](https://u.cubeupload.com/JakubMzTrencina/q7gyCv.png)|JakubMzTrencina|2024-09-05|
 |`1F4F0`|![](emoji/15x15/1f4f0.png)|Newspaper|[🔗](https://u.cubeupload.com/CocoTheMii/1f4f0.png)|ilovestories|2024-09-03|
 |`1F5DE`|![](emoji/15x15/1f5de.png)|Rolled-Up Newspaper|[🔗](https://u.cubeupload.com/CocoTheMii/1f5de.png)|ilovestories|2024-09-03|
-|`1FA9C`|![](emoji/15x15/1fa9c.png)|Ladder|[🔗](https://u.cubeupload.com/CocoTheMii/1fa9c.png)|ilovestories|2024-08-10|
 |`1F516`|![](emoji/15x15/1f516.png)|Bookmark|[🔗](https://u.cubeupload.com/CocoTheMii/1f516.png)|ilovestories|2024-09-03|
 |`1F9BB`|![](emoji/15x15/1f9bb.png)|Ear with Hearing Aid|[🔗](https://u.cubeupload.com/popularknight/d8apixilframe05.png)|floppasyay|2024-09-02|
 |`1F9D1 200D 1F384`|![](emoji/15x15/1f9d1-200d-1f384.png)|Mx. Claus|[🔗](https://u.cubeupload.com/GreyFox/mxclaus.png)|gplb2718|2024-09-02|
